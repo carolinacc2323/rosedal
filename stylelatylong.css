@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-size: 120%;
+    background-color: #FDEDEC;
+}
+h1{
+    border: solid #CB4335 5px;
+    font-size: 150%;
+    margin-top: 1em;
+    margin-right: 0.85em;
+    margin-left: 0.85em;
+    padding: 2em;
+    font-family: "Lucida Console", Monaco, monospace;
+    text-align: center;
+    background-image: url("imagen/fondo.jpg");
+    color: white;
+    font-size: 50px;
+}
+.parrafo2{
+    border: solid #CB4335 5px;
+    padding: 1em 1em 1em 1em;
+    margin: 1em 2em 1em 2em;
+}
+.mapa{
+    align-items: center;
+    /* border: solid blue 5px; */
+    margin-left: 24.5em;
+}

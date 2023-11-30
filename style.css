@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-size: 120%;
+    background-color: #FDEDEC;
+}
+.container{
+    /* width: 100%; */
+    margin: 2%;
+    border: solid #CB4335 5px;
+    padding: 1em 1em 1em 1em;
+    
+}
+a{
+    text-decoration: none;
+}
+.header-text{
+    border: solid #CB4335 5px;
+    font-size: 150%;
+    margin-top: 1em;
+    margin-right: 0.85em;
+    margin-left: 0.85em;
+    padding: 2em;
+    font-family: "Lucida Console", Monaco, monospace;
+    text-align: center;
+    background-image: url("imagen/fondo.jpg");
+    color: white;
+    font-size: 40px;
+}
+.mapita{
+    text-align: center;
+    width: 50px;
+    height: 50px;
+}
+footer{
+    text-align: center;
+    font-size: 125%;
+}

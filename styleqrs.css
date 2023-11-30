@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-size: 120%;
+    background-color: #FDEDEC;
+}
+h1{
+    border: solid #CB4335 5px;
+    font-size: 150%;
+    margin-top: 1em;
+    margin-right: 0.85em;
+    margin-left: 0.85em;
+    padding: 2em;
+    font-family: "Lucida Console", Monaco, monospace;
+    text-align: center;
+    background-image: url("imagen/fondo.jpg");
+    color: white;
+    font-size: 60px;
+}
+.mapita2 img{
+    border: solid #A3E4D7 4px;
+    margin-top: 0.5em;
+    margin-left: 25em;
+}
+.qr{
+    height: 90px;
+    width: 90px;
+}
+.img{
+    float: left;
+    margin: 10px 10px 10px 10px;
+}
+.qrs{
+    display: flex;
+    grid-template-columns: 1fr;
+    align-items: center;
+    margin-top: 1em;
+    margin-left: 15em;
+}
+p{
+    text-align: center;
+    font-size: 125%;
+    margin: 1.5em 2.25em 0 2.25em;
+    /* border: solid black 2px; */
+}
